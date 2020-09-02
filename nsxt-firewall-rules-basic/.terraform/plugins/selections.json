@@ -1,6 +1,0 @@
-{
-  "registry.terraform.io/terraform-providers/nsxt": {
-    "hash": "h1:ALuKVkOT90WRunbTysZeegAhULXjnXUDolauD2V4PXg=",
-    "version": "3.0.1"
-  }
-}
