@@ -1,7 +1,7 @@
 nsx = {
   ip       = "10.99.1.194"
   user     = "admin"
-  password = "Vmware1!VMware1!"
+  password = "password"
 }
 nsx_data_vars = {
   transport_zone = "overlay"
