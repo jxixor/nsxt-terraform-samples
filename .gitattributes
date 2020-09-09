@@ -1,2 +1,0 @@
-*.hcl linguist-detectable=false
-*.tf linguist-detectable=true
